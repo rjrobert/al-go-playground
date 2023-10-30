@@ -5,5 +5,5 @@
   "bcptTestFolders": [],
   "githubRunner": "self-hosted",
   "cacheImageName": "my",
-  "cacheKeepDays": "30"
+  "cacheKeepDays": 30
 }
