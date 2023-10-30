@@ -1,5 +1,13 @@
 {
     "version": "0.2.0",
     "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Cloud Sandbox (playground)",
+            "environmentType": "Sandbox",
+            "environmentName": "playground",
+            "tenant": "3e424044-9465-4614-82b1-18f0c95c1c54"
+        }
     ]
 }
