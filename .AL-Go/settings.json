@@ -3,5 +3,7 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "githubRunner": "self-hosted"
+  "githubRunner": "self-hosted",
+  "cacheImageName": "my",
+  "cacheKeepDays": "30"
 }
